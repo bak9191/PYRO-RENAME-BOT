@@ -1,4 +1,5 @@
 {
+   
     "name": "Renamer Bot",
     "description": "Telegram File Renamer Bot ",
     "logo": "https://telegra.ph/file/e54960f983def61238990.jpg",
@@ -6,7 +7,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/bak9191/PYRO-RENAME-BOT
+    "repository": "https://github.com/itsyogieu/PYRO-RENAME-BOT",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
@@ -42,9 +43,3 @@
             "value": "https://telegra.ph/file/04d08445dce68c9a57b25.jpg"
         }
     },
-    "buildpacks": [
-        {
-            "url": "heroku/python"
-        }
-    ]
-}
